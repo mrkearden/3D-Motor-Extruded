@@ -1,4 +1,4 @@
-Input File = Mesh_1 
+Input File = mesh 
 Output File = Mesh_1_3D
 Input Mode = ElmerSolver
 Output Mode = ElmerSolver
